@@ -1,5 +1,5 @@
 # 💫 About me:
-👯 Busco colaborar en proyectos web como Frontend<br>🤝 Trabajo en equipo<br>🌱 Estudio Angular, HTML, CSS, JavaScript y Node<br>💬 Otras herramientas: Git, Github y trello<br>⚡ SCRUM
+👯 Busco colaborar en proyectos web como desarrollador Frontend<br>🤝 Trabajo en equipo<br>🌱 Estudio Angular, HTML, CSS, JavaScript y Node<br>💬 Otras herramientas: Git, Github y trello<br>⚡ SCRUM
 
 
 ## 🌐 Socials:
