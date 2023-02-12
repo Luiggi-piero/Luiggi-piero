@@ -1,5 +1,5 @@
 # 💫 About me:
-🌱 Estudio Angular, HTML, CSS, JavaScript y Node<br>💬 Otras herramientas: Git, Github y trello<br>⚡ SCRUM
+🌱 Estudio Angular, HTML, CSS, JavaScript y Node<br>💬 Otras herramientas: Git<br>⚡ SCRUM
 
 
 ## 🌐 Socials:
