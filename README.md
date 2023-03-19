@@ -1,5 +1,5 @@
 # 💫 About me:
-💬 Otras herramientas utilizadas: Git<br>⚡Metodología usada: SCRUM
+💬 Git<br>⚡SCRUM
 
 
 ## 🌐 Socials:
