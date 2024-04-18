@@ -1,5 +1,5 @@
-<h2 align="left">Luiggi Yantas</h2>
-<p>Bachiller en Ingeniería de Software con una sólida pasión por el desarrollo web. </p>
+<h2 align="center">Luiggi Yantas</h2>
+<p align="center">Bachiller en Ingeniería de Software con una sólida pasión por el desarrollo web</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI2NXQ3eHd6ZHRubGh2YmNtdDdvNDhrejZpaDI4dzFhajdmazM3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UOAcP2kW1ZA6zGvfR/giphy.gif"  />
+<!-- <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI2NXQ3eHd6ZHRubGh2YmNtdDdvNDhrejZpaDI4dzFhajdmazM3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UOAcP2kW1ZA6zGvfR/giphy.gif"  /> -->
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
