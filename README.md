@@ -1,5 +1,5 @@
 <h2 align="center">Luiggi Yantas</h2>
-<p align="center">Bachiller en Ingeniería de Software con una sólida pasión por el desarrollo web</p>
+<p align="center">Bachiller en Ingeniería de Software con una sólida pasión por el desarrollo</p>
 
 ###
 
