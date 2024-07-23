@@ -1,4 +1,4 @@
-<h2 align="center">Luiggi Yantas</h2>
+<h2 align="center">Luiggi</h2>
 <p align="center">Graduated in Software Engineering with a solid passion for development.</p>
 
 ###
