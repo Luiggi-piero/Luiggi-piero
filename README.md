@@ -1,5 +1,5 @@
 <h2 align="center">Luiggi Yantas</h2>
-<p align="center">Bachiller en Ingeniería de Software con una sólida pasión por el desarrollo</p>
+<p align="center">Graduated in Software Engineering with a solid passion for development.</p>
 
 ###
 
@@ -47,6 +47,9 @@
 ###
 
 <div align="center">
+   <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+  <br>
+  <br>
   <a href="https://www.instagram.com/luiggi.yantas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -58,7 +61,9 @@
 ###
 
 <br clear="both">
-<!-- 
-<img src="https://raw.githubusercontent.com/Luiggi-piero/Luiggi-piero/output/snake.svg" alt="Snake animation" /> -->
-
-###
+<!--
+<img src="https://raw.githubusercontent.com/Luiggi-piero/Luiggi-piero/output/snake.svg" alt="Snake animation" />
+ -->
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
