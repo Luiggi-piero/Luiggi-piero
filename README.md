@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /> -->
 </div>
 
 ###
